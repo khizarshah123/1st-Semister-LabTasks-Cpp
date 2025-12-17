@@ -1,3 +1,5 @@
+![image alt](https://github.com/khizarshah123/1st-Semister-LabTasks-Cpp/blob/68fd1808235fc13118c2b41e301bcaf644e39ecb/CPlusPlus1.jpg)
+
 Programming Fundamentals (C++)
 
  📌 Overview
