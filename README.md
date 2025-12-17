@@ -41,7 +41,7 @@ C++
 
 🎓 Academic Purpose
 
-This repository is maintained for **educational purposes** as part of a university-level **Programming Fundamentals** course. It may help beginners understand basic programming concepts and C++ syntax.
+This repository is maintained for educational purposes as part of a university-level **Programming Fundamentals** course. It may help beginners understand basic programming concepts and C++ syntax.
 
 ---
 
