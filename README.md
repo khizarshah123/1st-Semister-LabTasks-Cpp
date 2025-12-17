@@ -60,7 +60,7 @@ This repository is maintained for **educational purposes** as part of a universi
 👤 Author
 
 Khizar Abbas
-University Student
+
 
 ---
 
