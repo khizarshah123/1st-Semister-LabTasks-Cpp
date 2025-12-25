@@ -1,3 +1,27 @@
+/*
+===============================================
+        ROCK PAPER SCISSORS GAME (C++)
+===============================================
+
+Program Description:
+This program is a console-based Rock–Paper–Scissors
+game written in C++. The user plays against the
+computer, which generates random choices.
+
+Game Rules:
+- Rock beats Scissors
+- Scissors beats Paper
+- Paper beats Rock
+
+Features:
+- Multiple rounds
+- Play again option
+- Score tracking for both player and computer
+
+Language: C++
+===============================================
+*/
+
 #include <iostream>
 #include <cstdlib>
 #include <ctime>
@@ -82,4 +106,5 @@ int main() {
     cout << "Thanks for playing! ";
 
     return 0;
+
 }
