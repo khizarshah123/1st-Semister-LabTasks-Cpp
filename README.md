@@ -47,17 +47,6 @@ This repository is maintained for educational purposes as part of a university-l
 
 ---
 
-📁 Repository Structure
-
-```
-├── Lab-01
-├── Lab-02
-├── Lab-03
-├── Practice
-└── README.md
-```
-
----
 
 👤 Author
 
